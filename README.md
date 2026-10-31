@@ -32,13 +32,6 @@ An AI-powered voice assistant that automates clinic interactions and appointment
 4. SQLite processes the requested operation.
 5. The agent responds to the patient with the result.
 
-# Getting Started
-
-```bash
-git clone YOUR_REPOSITORY_URL
-cd clinic-voice-agent
-uv sync
-```
 
 Configure the required API credentials in your environment file, then run:
 
